@@ -1,3 +1,3 @@
 ## 🎮 Leitura do Joystick da BitDogLab
 
-Desenvolva um programa em linguagem **C** para a **Raspberry Pi Pico** com a placa **BitDogLab** que realize a **leitura dos valores convertidos digitalmente do joystick analógico (KY-023)**.
+Faça um programa em C para ler os valores convertidos digitalmente do joystick da BitDogLab. Os valores podem ser mostrados no terminal ou então no display OLED.
